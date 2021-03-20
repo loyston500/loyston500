@@ -1,4 +1,4 @@
-### Hi there, I'm [Loyston!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Loyston!](https://github.com/loyston500) 👋
 
 <a href="LoystonLive#7925">
   <img align="left" alt="Loyston's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
@@ -15,6 +15,7 @@ Hi, I'm Loyston Pais, 16 y/o, a passionate self-taught programmer from India.
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/53959446/111877046-72a75c00-89c7-11eb-804a-9878b5dc3f3f.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/53959446/111877381-26f5b200-89c9-11eb-8523-9124bc1ddc77.png"></code>
 
 <!--- 
   if you have forked this to use on your profile, 
