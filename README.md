@@ -19,14 +19,18 @@ I'm Loyston Pais, aka LoystonLive, 17, a passionate self-taught programmer from 
 <h4>Social:<h4/>
  
  <div>
+ <blockquote>
  <a href="https://discord.com/users/558715694049525803"> 
   <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/> 
   <code> @LoystonLive#7925 <code/> 
  <a/>
+ <blockquote/>
  
+<blockquote>
 <a href="https://www.reddit.com/user/loystonpais"> 
  <img src="https://img.shields.io/badge/reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white"/> 
  <code> u/loystonpais <code/> 
 <a/>
+<blockquote/>
 <div/>
 
