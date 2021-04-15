@@ -1,47 +1,20 @@
-### Hi there, I'm [Loyston!](https://github.com/loyston500) 👋
+# Hi 👋
+I'm Loyston Pais, aka LoystonLive, 17, a passionate self-taught programmer from India. Like making cool stuff like discord bots, etc..
 
-<a href="LoystonLive#7925">
-  <img align="left" alt="Loyston's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+<h4>Skills<h4/>
 
-<br />
-<br />
-
-Hi, I'm Loyston Pais, 16 y/o, a passionate self-taught programmer from India.
-
-- I've kinda mastered Python.
-- I make discord bots! [CodeGod](https://github.com/loyston500/CodeGod)
-- Currenty rewriting my bot in Rust and learning the language as well [CodeGodRust](https:://github.com/loyston500/CodeGodRust)
-**Languages and Tools:**  
-
-<code><img height="20" src="https://user-images.githubusercontent.com/53959446/111877046-72a75c00-89c7-11eb-804a-9878b5dc3f3f.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/53959446/111877381-26f5b200-89c9-11eb-8523-9124bc1ddc77.png"></code>
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
-
+ <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/rust-c45508?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white"/> 
+ 
 <a href="https://github.com/loyston500">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loyston500&show_icons=true&include_all_commits=true&theme=dracula" alt="Loyston's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=loyston500&show_icons=true&include_all_commits=true&layout=compact&show_icons=true&title_color=24A7FF&text_color=c45508&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" alt="Loyston's github stats" />
 </a>
 <a href="https://github.com/loyston500">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyston500&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyston500&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </a>
 
 <a href="https://github.com/loyston500">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loyston500&repo=CodeGod&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=loyston500&repo=CodeGod&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </a>    
 <a href="https://github.com/loyston500">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loyston500&repo=CodeGodRust&theme=dracula" />
-
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loyston500&repo=CodeGodRust&show_icons=true&title_color=c45508&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=c45508&hide_title=true&count_private=true" />
 </a>
-
