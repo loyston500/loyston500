@@ -1,5 +1,5 @@
-# Hi 👋
-I'm Loyston Pais, aka LoystonLive, 17, a passionate self-taught programmer from India. Like making cool stuff like discord bots, etc..
+# Welcome 👋
+Hey there, I'm Loyston Pais, aka LoystonLive, 17, a passionate self-taught programmer from India. I make stuff that I like to make.
 
 <h4>Skills:<h4/>
 
@@ -21,7 +21,7 @@ I'm Loyston Pais, aka LoystonLive, 17, a passionate self-taught programmer from 
  <div>
  <a href="https://discord.com/users/558715694049525803"> 
   <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/> 
-  @LoystonLive#7925
+  @LoystonLive#4622
  <a/>
    <br/>
 <a href="https://www.reddit.com/user/loystonpais"> 
