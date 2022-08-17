@@ -24,10 +24,6 @@ Hey there, I'm Loyston Pais, aka LoystonLive, 18, a passionate self-taught progr
   @LoystonLive#4622
  <a/>
    <br/>
-<a href="https://www.reddit.com/user/loystonpais"> 
- <img src="https://img.shields.io/badge/reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white"/> 
- u/loystonpais
-<a/>
 <div/>
 
 
