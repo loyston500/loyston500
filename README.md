@@ -1,5 +1,5 @@
 # Welcome 👋
-Hey there, I'm Loyston Pais, aka LoystonLive, 18, a passionate self-taught programmer from India. I make stuff that I like to make.
+Hey people, I'm Loyston Pais, aka LoystonLive, 18, I program stuff.
 
 <h4>Skills:<h4/>
 
